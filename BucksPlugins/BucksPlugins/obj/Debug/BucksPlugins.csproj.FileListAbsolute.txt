@@ -1,0 +1,8 @@
+C:\BucksPlugins\BucksPlugins\BucksPlugins\bin\Debug\BucksPlugins.dll
+C:\BucksPlugins\BucksPlugins\BucksPlugins\bin\Debug\BucksPlugins.pdb
+C:\BucksPlugins\BucksPlugins\BucksPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\BucksPlugins\BucksPlugins\BucksPlugins\bin\Debug\Microsoft.Xrm.Client.dll
+C:\BucksPlugins\BucksPlugins\BucksPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\BucksPlugins\BucksPlugins\BucksPlugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\BucksPlugins\BucksPlugins\BucksPlugins\obj\Debug\BucksPlugins.dll
+C:\BucksPlugins\BucksPlugins\BucksPlugins\obj\Debug\BucksPlugins.pdb
