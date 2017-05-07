@@ -1,0 +1,13 @@
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\bin\Debug\UpdateCRM.exe.config
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\bin\Debug\UpdateCRM.exe
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\bin\Debug\UpdateCRM.pdb
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\bin\Debug\Microsoft.Xrm.Client.dll
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\bin\Debug\LinqToExcel.xml
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\bin\Debug\en\Microsoft.IdentityModel.resources.dll
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\obj\Debug\UpdateCRM.csprojResolveAssemblyReference.cache
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\obj\Debug\UpdateCRM.exe
+C:\D365CRUD\UpdateAcademics\UpdateAcademics\obj\Debug\UpdateCRM.pdb
+C:\AutoNumber\CRM\UpdateAcademics\bin\Debug\UpdateCRM.exe.config
+C:\AutoNumber\CRM\UpdateAcademics\obj\Debug\UpdateCRM.exe
+C:\AutoNumber\CRM\UpdateAcademics\obj\Debug\UpdateCRM.pdb
+C:\AutoNumber\CRM\UpdateAcademics\obj\Debug\UpdateCRM.csprojResolveAssemblyReference.cache
